@@ -1,0 +1,33 @@
+username,company_code,reg_date,lead_id,companyname,personname,email,contactno,city,designation,address,source,products,stage,reminder_status,company_vertical,nextfollow_up_by,remark,status_id,entry_date
+,1001,08-02-2024,3,Bidwai Import Export,Ashwini Sonowane,nomail@gmail.com,8888096022,Dombivli,owner,NULL,BNI,Website,stage 1,Reminder 1,Other,15-02-2024,shared hosting cost on whatsapp ref. surbhi,1,18-06-2024
+,1001,08-02-2024,4,Shri Balaji Prosthetics,Shri Balaji Prosthetics,nomail@gmail.com,9457009036,Navi Mumbai,owner,Nerul,Social Media,CRM,stage 1,Reminder 1,Other,09-02-2024,fb lead,2,18-06-2024
+,1001,14-02-2024,5,Sahakar Bharati,Sandeep Gamre,nomail@gmail.com,9819276512,Mumbai,IT head ,NULL,Indiamart,Bulk WhatsApp,stage 1,Reminder 1,Other,15-02-2024,shared the quotation,3,18-06-2024
+,1001,17-02-2024,6,Glass Wood Works,Gaurav Gupta,nomail@gmail.com,8652700000,Mumbai,owner,Mira Road,Reference,Website,stage 1,,Other,16-02-2024,Ref. Ramesh Rajput,4,18-06-2024
+,1001,20-02-2024,7,Thermovision Enterprises,Amruta Joshi,salesthermovi@gmail.com,9819157289,Dombivli,IT head ,Mumbai,Reference,Digital Marketing,stage 1,Reminder 1,Corporate,01-01-2025,Renewal done on 20-Feb-24,5,18-06-2024
+,1001,20-02-2024,8,Reliable Chairs,Apurva,nomail@gmail.com,7066219000,Ambernath,IT head ,Mumbai,Indiamart,Digital Marketing,stage 1,Reminder 1,Other,21-02-2024,Buyer inquiry,6,18-06-2024
+,1001,20-02-2024,9,Akbar Academy,Anit,opshead@akbaracademy.com,8976892268,Thane,IT head ,Mumbai,Indiamart,Website,stage 1,Reminder 1,Other,21-02-2024,Quotation shared,7,18-06-2024
+,1001,23-02-2024,11,Wani Tours,Darshan Wani,nomail@gmail.com,9664281001,Kalyan,owner,Kalyan,Indiamart,Digital Marketing,stage 1,Reminder 1,Other,19-02-2024,,8,18-06-2024
+,1001,24-02-2024,12,Mahendra Harne Foundation,Shubham Harne,mahendraharnefoundation@gmail.com,8286000656,Thane,IT head ,Thane,RMB,Website,stage 1,Reminder 1,Corporate,01-02-2025,website renewal,9,18-06-2024
+,1001,29-02-2024,13,Smart Tutions,Mansi Abhyankar,nomail@gmail.com,8692887992,Dombivli,owner,Tilak Nagar,BNI,Bulk WhatsApp,stage 1,Reminder 1,Other,29-02-2024,shared details on wsapp with cost,10,18-06-2024
+Mayuri,1001,29-02-2024,14,Tohfawala Crownlit,Murtuza Tohfawala,sales@tohfawala.com,8850848645,Dombivli,owner,"A 209, Globe Estate ",BNI,Bulk WhatsApp,,Reminder 1,Corporate,,shared details on wsapp by Sarika,11,18-06-2024
+,1001,05-03-2024,15,Square Reality,Rohan Sawant,nomail@gmail.com,8208393797,Mulund,owner,Mumbai,Reference,Digital Marketing,stage 1,Reminder 1,Corporate,04-03-2024,Kashish Park Lead Generation,12,18-06-2024
+,1001,05-03-2024,16,Sahyadri Ice and Chemical,Vijay M. Bhane,info.suyash@gmail.com,8422999999,Dombivli,owner,NULL,BNI,Website,stage 1,Reminder 1,Chemical,,Rakesh Jage,13,18-06-2024
+,1001,06-03-2024,17,Little Minds,Priyanka,nomail@gmail.com,9619237660,Dombivli,owner,Gograswali,BNI,Digital Marketing,stage 1,Reminder 1,Other,06-03-2024,meghna dhulla,14,18-06-2024
+,1001,09-03-2024,18,M B Laminators,Shasikant Morwal,nomail@gmail.com,9323789390,JB Nagar,owner,Diu Daman,BNI,Website,Open Followup,Reminder 1,B2BMFG,11-03-2024,shared by Darshan Chedda,15,18-06-2024
+,1001,09-03-2024,19,Brijraj Electrical,Kalakant Yadav,brijrajelectrical@gmail.com,9819306583,Palava,owner,Dombivli East,BNI,Website,Order Reed,Reminder 1,B2BMFG,09-03-2024,,16,18-06-2024
+,1001,18-03-2024,20,Globe Eye Security System,Santosh Powar,powarsantosh@gmail.com,9029292200,Dombivli,owner,"8, Yasholata, Near Leva Bhavan, Cross Shivmandir road, Dombivli(E)",RMB,Digital Marketing,Verbal Discussion,Reminder 1,Other,,Next Month,17,18-06-2024
+Hardik,1001,11-04-2024,21,Whitestone Enterprises,Harshit Tandel,www.whitestoneenterprises@gmail.com,8657079376,Mumbai,owner,NULL,BNI,Website,Verbal Discussion,Reminder 1,Builder,13-04-2024,Ref by Rupali Dhamankar,18,18-06-2024
+Hardik,1001,11-04-2024,22,Logistics,Pramod,,9619568999,Dombivli,owner,Gograswadi,BNI,Website,Verbal Discussion,Reminder 1,Logistics,11-04-2024,ref. kunal shah,19,18-06-2024
+Sarika,1001,13-04-2024,23,Swaraj Tel Udyog,Swaraj Tel Udyog,,902272619,Latur,owner,"Latur, Maharashtra, India",Indiamart,Digital Marketing,Verbal Discussion,Reminder 1,Other,13-04-2024,Share Cost without Reels(Only images),20,18-06-2024
+Hardik,1001,13-04-2024,24,Shree Gajanan Pest Control Services,Dipesh Raja,dmraja31@gmail.com,9226888838,Paratwada,owner,Paratwada,Reference,CRM,Verbal Discussion,Reminder 1,Other,15-04-2024,ref. Ajay. He need sales software,21,18-06-2024
+,1001,18-05-2024,28,Shree Gajanan Pest Control Services,Dipesh Raja,dmraja31@gmail.com,9226888838,Paratwada,owner,Paratwada,Reference,CRM,Verbal Discussion,Reminder 1,Other,24-05-2024,NA,22,18-06-2024
+Hardik,1001,18-05-2024,29,Shree Gajanan Pest Control Services,Dipesh Raja,dmraja31@gmail.com,9226888838,Paratwada,owner,Paratwada,Reference,CRM,Verbal Discussion,Reminder 1,Other,40524-02-20,NA,23,18-06-2024
+Hardik,1001,22-05-2024,30,Shree Gajanan Pest Control Services,Dipesh Raja,dmraja31@gmail.com,9226888838,Paratwada,owner,Paratwada,Reference,CRM,Verbal Discussion,Reminder 1,Other,31-05-2024,NA,24,18-06-2024
+Hardik,1001,22-05-2024,31,Shree Gajanan Pest Control Services,Dipesh Raja,dmraja31@gmail.com,9226888838,Paratwada,owner,Paratwada,Reference,CRM,Verbal Discussion,Reminder 1,Other,40531-02-20,NA,25,18-06-2024
+Mayuri,1001,04-06-2024,34,sedna,mayuri,mannuchore07@gmail.com,8692887992,Dombivli,IT Head,dombivali,BNI,CRM,Renewal Follow Up,Reminder 1,B2BMFG,05-06-2024,dasddadad,26,18-06-2024
+Mayuri,1001,04-06-2024,35,asd,sdad,Meltingbytes.shivshakti@gmail.com,sda,sda,IT Head,sad,Reference,Paid Ads,Quotation High,Reminder 3,Chemical,14-06-2024,asdad,27,18-06-2024
+Mayuri,1001,04-06-2024,36,drdder,mannu,Meltingbytes.shivshakti@gmail.com,4324424,dsfsdf,Owner,dombivali,Indiamart,Digital Marketing,Quotation To Send,Reminder 2,B2CMFG,04-06-2024,gfgfg,28,18-06-2024
+Mayuri,1001,04-06-2024,37,sdas,asdsa,sada,8692887992,Dombivli,Owner,dombivali,Reference,Digital Marketing,Quotation High,Reminder 2,Builder,04-06-2024,sad,29,18-06-2024
+Hardik,1001,10-06-2024,39,Paras Financer,Jitendra Gupta,jitus.gupta@gmail.com,9594898222,Diva,Owner,NULL,BNI,Website,Quotation Followup,Reminder 1,Builder,11-06-2024,talking to his brother,30,18-06-2024
+Hardik,1001,10-06-2024,40,fsdf,Ronson,salesthermovi@gmail.com,9819157289,Kalyan,IT Head,Kalyan,BNI,Website,Quotation Followup,Reminder 1,IT,11-06-2024,direct reference,31,18-06-2024
+Mayuri,1001,14-06-2024,41,Paras Financer,Jitendra Gupta,jitus.gupta@gmail.com,9594898222,Diva,Owner,NULL,Indiamart,Paid Ads,Quotation Followup,Reminder 3,Builder,14-06-2024,hghfhgfhgf,32,18-06-2024
